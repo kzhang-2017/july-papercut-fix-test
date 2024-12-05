@@ -4,7 +4,6 @@
             "label": "Multi version terraform",
             "name": "multiversion-terraform",
             "version": "1.0.6",
-            "product_kind": "software",
             "tags": [
                 "virtualservers"
             ],
